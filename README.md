@@ -86,7 +86,7 @@ GET /api/products/1
 
 ## 📦 Modelo de Dados (Product)
 
-```json
+json
 {
   "productID": 1,
   "productName": "Chai",
@@ -153,3 +153,9 @@ Testes unitários
 
 Alexandre Santos
 Projeto desenvolvido para estudos e portfólio em .NET e Web API.
+
+Evidências da execução:
+
+<img width="1912" height="1080" alt="{B5D97564-A6CE-41E6-AB92-78F0B415F04F}" src="https://github.com/user-attachments/assets/8d180f60-45db-4ef1-acd4-1a38200c51f2" />
+<img width="1914" height="1080" alt="{900E3D19-70D7-42DE-A91A-D3897EAA5151}" src="https://github.com/user-attachments/assets/0f4a14e8-25ca-460f-8a0c-e67885d297ee" />
+
