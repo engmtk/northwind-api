@@ -130,3 +130,13 @@ Testes unitários
 
 Autor: Alexandre Santos
 Projeto desenvolvido para estudos e portfólio em .NET e Web API.
+
+Evidências dos testes:
+
+<img width="1910" height="1080" alt="{4DAC9C4C-3EFF-4EE9-BA58-E760F46D045A}" src="https://github.com/user-attachments/assets/514cff0c-c367-4278-b632-3f68330d7139" />
+<img width="1822" height="966" alt="{FF033BA5-DCD1-4D7C-9C30-67EE5EB6AC3E}" src="https://github.com/user-attachments/assets/49fc185d-1619-4e9c-9a5b-101587a7d309" />
+
+
+
+
+
