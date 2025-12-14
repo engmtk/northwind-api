@@ -19,29 +19,6 @@ Este projeto tem como objetivo demonstrar boas práticas de arquitetura, organiz
 
 ## 📁 Estrutura do Projeto
 
-Claro, vamos criar um README.md bem profissional para o seu projeto. Eu vou te fornecer um modelo claro, com os detalhes certos para o GitHub. Esse modelo pode ser copiado e colado diretamente no seu repositório.
-
-README.md para o Repositório Northwind API
-# Northwind API
-
-Esta é uma API RESTful construída utilizando **ASP.NET Core Web API**, **Dapper** para acesso a dados e **Swagger** para documentação e testes. O banco de dados utilizado é o **Northwind**, um banco de dados de exemplo comum no mundo do SQL Server.
-
----
-
-## 🚀 Tecnologias Utilizadas
-
-- **.NET (ASP.NET Core Web API)**
-- **Dapper**
-- **SQL Server (Northwind)**
-- **Swagger (Swashbuckle)**
-- **Injeção de Dependência (DI)**
-
----
-
-## 📁 Estrutura do Projeto
-
-
-
 NorthwindApi
 │
 ├── Controllers
